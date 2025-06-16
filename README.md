@@ -7,8 +7,8 @@ Je fais partie du collectif ytreza.dev qui regroupe des développeuses et dével
 
 ## Contact
 Vous pouvez me contacter de plusieurs manières : 
-par mail : contact@ytreza.dev
-prendre rdv avec moi : https://cal.com/jonathan-laurent
+- par mail : contact@ytreza.dev
+- prendre rdv avec moi : https://cal.com/jonathan-laurent
 
 ## Mode d'emploi
 
