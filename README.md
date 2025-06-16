@@ -1,6 +1,6 @@
 # Jonathan LAURENT 👋
 
-Bonjour, je suis Jonathan (se prononce djonatane). Vous trouverez ici toutes les informations vous permettant de communiquer avec moi.
+Bonjour, je suis Jonathan (se prononce djonatane). Vous trouverez ici toutes dortes d'informations vous permettant une meilleur interaction avec moi.
 
 Je suis développeur freelance et j'accompagne les gens dans l'apprentissage de techniques et méthodes de développement.
 Je fais partie du collectif ytreza.dev qui regroupe des développeuses et développeurs pratiquant le mob programming (ensemble programming / software teaming).
@@ -9,6 +9,7 @@ Je fais partie du collectif ytreza.dev qui regroupe des développeuses et dével
 Vous pouvez me contacter de plusieurs manières : 
 - par mail : contact@ytreza.dev
 - prendre rdv avec moi : https://cal.com/jonathan-laurent
+- profil linkedin : https://www.linkedin.com/in/jonathan-laurent/
 
 ## Mode d'emploi
 
