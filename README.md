@@ -44,6 +44,12 @@ Sujets pour briser la glace :
 - stratégie
 - séries netflix
 - développement personnel
+
+## Mon agenda
+Afin de se synchroniser avec moi, voici un agenda de mes disponibilités : 
+- [Agenda public](https://calendar.google.com/calendar/embed?src=jonathan.laurent%40ytreza.dev&ctz=Europe%2FParis)
+- [Format ical](https://calendar.google.com/calendar/ical/jonathan.laurent%40ytreza.dev/public/basic.ics)
+
 <!--
 **Johjo/Johjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
