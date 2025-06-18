@@ -11,6 +11,16 @@ Vous pouvez me contacter de plusieurs manières :
 - prendre rdv avec moi : https://cal.com/jonathan-laurent
 - profil linkedin : https://www.linkedin.com/in/jonathan-laurent/
 
+## Ma zone de génie
+
+J'ai une particularité, c'est de considérer le monde comme un ensemble d'hypothèses que je dois (in)valider. Cela me permet d'avoir une pratique du Test Driven Development (TDD) très efficace, que j'applique en permanence, que ce soit dans le développement ou la vie de tous les jours. Cela me permet d'être à l'aise dans des environnements complexes (selon la définition donnée par cynefin) et de ne pas perdre mes moyens dans un environnement chaotique (toujours cynefin).
+
+Je sais diminuer drastiquement la charge cognitive d'un travail ce qui me permet d'aller à l'essentiel. Cela me permet de gagner en fluidité et d'atteindre facilement le flow.
+
+J'ai aussi une excellente capacité à comprendre et aller au fond des choses. Par exemple, je suis amateur de jeux de société, je suis capable de déceler des erreurs de compréhension dès la première lecture des règles du jeu (expert) auprès de joueurs ayant déjà effectués plusieurs parties. 
+
+Enfin, j'ai une bonne capacité à trouver des synergies entre deux concepts différents. Cela me permet de proposer des solutions innovantes en me basant sur l'existant.
+
 ## Mode d'emploi
 
 Tout d'abord, voici un mode d'emploi personnel qui vous simplifiera les interactions avec moi.
